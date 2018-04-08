@@ -10,7 +10,7 @@ public class P2_DonationMatcher {
 		System.out.print("Will you donation be multiplied 1 or 2? ");
 		int multiplier = console.nextInt();
 
-		if (multiplier == 1) {
+		if (multiplier == 1); {
 			System.out.print("And how much are you donating? ");
 			int donation = console.nextInt();
 			donationsSum = donationsSum + donation;
